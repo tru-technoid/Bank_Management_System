@@ -1,6 +1,6 @@
 # Banking Management System - TRU's
 
-This project demonstrate a simple, user-friendly banking application that allows users to create an account, log in, and perform various banking operations such as checking balances, depositing, withdrawing, and viewing recent transactions. The system uses a JSON file to store user account data and transaction records.
+This project demonstrate a user-friendly banking application that allows users to create an account, log in, and perform various banking operations such as checking balances, depositing, withdrawing, and viewing recent transactions. The system uses a JSON file to store user account data and transaction records.
 
 ## Features
 
