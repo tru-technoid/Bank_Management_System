@@ -151,8 +151,4 @@ For any **questions** or support, reach out to [trushadowspecter261@gmail.com](m
 
 ### Acknowledgments
 
-<<<<<<< HEAD
 This project use cJSON.c and cJSON.h [Open Source Files](https://github.com/DaveGamble/cJSON) . Special thanks to the open-source community for it that made this project possible.
-=======
-This project use cJSON.c and cJSON.h [Open Source Files](https://github.com/DaveGamble/cJSON) . Special thanks to the open-source community for it that made this project possible.
->>>>>>> bf9cf27ad66e903bb9daefe3e363c4ddfcec4100
