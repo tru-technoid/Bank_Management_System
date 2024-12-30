@@ -5,7 +5,7 @@
 #include <ctype.h>
 #include "cJSON.h" //JSON helper
 
-#define DATA_FILE "bank_data.json"
+#define DATA_FILE "tru_bank_data.json"
 #define MAX_LENGTH 256
 
 // Main Functionality
