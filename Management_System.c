@@ -3,12 +3,11 @@
 #include <string.h>
 #include <time.h>
 #include <ctype.h>
-#include "cJSON.h" //JSON helper
+#include "cJSON.h"
 
 #define DATA_FILE "tru_bank_data.json"
 #define MAX_LENGTH 256
 
-// Main Functionality
 void displayMainMenu();
 void registerAccount();
 void loginToAccount();
@@ -24,7 +23,7 @@ cJSON *loadFromDatabase();
 int createUniqueAccountNumber(cJSON *database);
 void logTransaction(cJSON *transactionList, const char *transactionType, double amount, double updatedBalance);
 
-// Helper functions for main functions
+// Helper funs 4 main funs
 int validatePhoneNumber(const char *phone);
 int validatePassword(const char *password, const char *confirmation);
 
