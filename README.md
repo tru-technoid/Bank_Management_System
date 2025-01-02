@@ -46,6 +46,7 @@ gcc -o Management_System_TRU Management_System.c cJSON.c
 ### Running the Program
 
 Once the code is compiled, run the program using :
+
 ```bash
 ./Management_System_TRU
 ```
